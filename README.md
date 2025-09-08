@@ -102,4 +102,11 @@ This project ingests YouTube video/channel metrics, cleans and aggregates the da
   - Focus on **categories with both high views and high engagement** (Music, People & Blogs, Travel).  
   - Target **regions with strong consumption but lower competition** for faster audience growth.  
   - **Leverage trending cycles** by releasing content aligned with global events or regional interests.  
-- The dashboard provides a **decision-making tool** for content scheduling, audience targeting, and campaign planning.  
+- The dashboard provides a **decision-making tool** for content scheduling, audience targeting, and campaign planning.
+
+---
+
+## 📫 Contact
+**Akhil Madanu**  
+GitHub: [AkhilMadanu21](https://github.com/AkhilMadanu21)  
+
