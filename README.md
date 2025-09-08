@@ -9,7 +9,12 @@ This project was developed as part of my internship with ElevateLabs. The goal w
 
 <img width="1155" height="644" alt="image" src="https://github.com/user-attachments/assets/808ee7c6-65ad-4b2f-be44-bb58fd3a311f" />
 
+
+
 <img width="1155" height="644" alt="image" src="https://github.com/user-attachments/assets/be22e343-027b-4724-bd5b-cc6d3cbc424e" />
+
+
+
 
 <img width="1155" height="644" alt="image" src="https://github.com/user-attachments/assets/5cad1a19-d0ad-4221-9d6c-2c1cc186fa4d" />
 
