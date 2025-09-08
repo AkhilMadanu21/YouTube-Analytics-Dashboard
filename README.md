@@ -1,8 +1,9 @@
 # YouTube-Analytics-Dashboard
-[
-](https://app.powerbi.com/groups/me/reports/cbe7287e-718c-4943-9aa0-c9b30caf9f8b/6ce0288d18c4ab0057e5?experience=power-bi)
+
+(https://app.powerbi.com/groups/me/reports/cbe7287e-718c-4943-9aa0-c9b30caf9f8b/6ce0288d18c4ab0057e5?experience=power-bi)
 
 This project was developed as part of my internship with ElevateLabs. The goal was to design and build an interactive analytics dashboard to uncover insights from YouTube data and help in understanding content performance, engagement, and regional viewership trends.
+
 ---
 ## Screenshots:
 
